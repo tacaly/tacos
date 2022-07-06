@@ -1,5 +1,6 @@
 # Tacaly OS 64-bit Operating System Kernel
 - A minimal Multiboot Kernel writtin in ([RUST](https://www.rust-lang.org/))
+- A secure operating system that uses "containers" as application element (Unix like)
 
 ## Prerequisites
 
